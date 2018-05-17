@@ -1,0 +1,22 @@
+
+body {
+    background-color: #f0f0f2;
+    margin: 0;
+    padding: 0;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    
+}
+#boody {
+    width: 800px;
+    margin: 5em auto;
+    padding: 50px;
+    background-color: #fff;
+    border-radius: 1em;
+}
+h1, img, p {
+    text-align: center;
+}
+
+#load {
+    display: none;
+}
